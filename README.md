@@ -1,5 +1,5 @@
-Using Pyhton's Twitter and Youtube Api to perform webscrapping.
+-Using Pyhton's Twitter and Youtube Api to perform webscrapping.
 
-Save the data on MongoDB collections.
+-Save the data on MongoDB collections.
 
-Evaluate the findings using MinHashing.
+-Evaluate the findings using MinHashing.
