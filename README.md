@@ -8,4 +8,4 @@
 
 -Save the data on MongoDB collections.
 
--Evaluate the findings using MinHashing.
+-Evaluate the geolocation tweets using MinHashing.
