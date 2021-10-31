@@ -8,4 +8,4 @@ Using Pyhton's Twitter and Youtube API to perform webscrapping.
 
 Save the data on MongoDB collections.
 
-Evaluate the geolocation tweets using MinHashing.
+Evaluate the geolocation tweets using MinHashing..
